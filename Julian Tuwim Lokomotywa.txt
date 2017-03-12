@@ -2,6 +2,9 @@ Julian Tuwim
 
 Lokomotywa 
 
+wstawiam wiersz 
+wstawiam wiersz nr 2
+
 Stoi na stacji lokomotywa,
 Ciê¿ka, ogromna i pot z niej sp³ywa:
 T³usta oliwa.
